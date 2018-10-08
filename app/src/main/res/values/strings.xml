@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Women2Safety</string>
+    <string name="name">Name</string>
+    <string name="contact">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="em1">Emergency Contact-1</string>
+    <string name="title_activity_account_details">AccountDetails</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
